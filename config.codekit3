@@ -34,6 +34,23 @@
 		"sC": 0,
 		"tS": 1
 		},
+	"\/script\/main.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/script\/main-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/script\/main.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/script\/main.js.map",
+		"oF": 0
+		},
 	"\/style\/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -98,7 +115,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-cocaine",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 548757624
+	"lastBuiltDate": 548763835
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

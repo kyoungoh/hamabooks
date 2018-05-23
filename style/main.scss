@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css?family=Nanum+Myeongjo:400,700,800");
+@import url('https://fonts.googleapis.com/css?family=Song+Myung:400');
+
+body {
+	background-color: #fffdf8;
+	color : rgba(0,0,0,0.8);
+	width : 70%;
+	font-family: "Nanum Myeongjo";
+	max-width : 800px;
+	text-align: center;
+	margin : 50px auto 100px auto;
+}
+
+a:link {
+    color: #5727E5;
+}
+
+a:visited {
+    color: #5727E5;
+}
+
+a:hover {
+    color: #2F19AC;
+}
+
+a:active {
+    color: #5727E5;;
+}
+
+::selection {
+    color: #fffdf8;
+    background: rgba(0,0,0,0.8);
+}
+
+.logo {
+	max-width : 50px;
+	max-height : 50px;
+	margin : auto;
+}
+
+h1 {
+	font-family: "Song Myung";
+	font-size: 2.4em;
+	font-weight : 400;
+	margin : auto;
+	max-width : 500px;
+	padding : 10px 0 20px 0;
+}
+
+h2 {
+	font-family: "Song Myung";
+	font-size : 1.8em;
+	line-height : 150%;
+	font-weight : 400;
+	max-width : 600px;
+	margin: auto;
+	padding : 60px 0 30px 0;
+}
+
+h3 {
+	font-family: "Song Myung";
+	font-size : 1.4em;
+	line-height : 150%;
+	font-weight : 400;
+	max-width : 600px;
+	margin : auto;
+	padding : 10px 0 20px 0;
+}

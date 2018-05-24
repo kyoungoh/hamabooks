@@ -22,12 +22,12 @@ a:active {
   color: #5727E5; }
 
 ::-moz-selection {
-  color: #EC4E27;
-  background: #FCEA60; }
+  color: #4B5936;
+  background: #C3FB73; }
 
 ::selection {
-  color: #EC4E27;
-  background: #FCEA60; }
+  color: #4B5936;
+  background: #C3FB73; }
 
 .logo {
   max-width: 50px;
